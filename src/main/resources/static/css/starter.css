@@ -28,5 +28,22 @@ body {
 	line-height: 30px;
 	z-index: 100;
 }
+
+#input{
+    width: 250px;
+    height: 25px;
+    border: 0;
+    background-color: white;
+    z-index: 100;
+    text-align: center
+}
+#output{
+    width: 250px;
+    height: 25px;
+    border: 0;
+    background-color: white;
+    z-index: 100;
+    text-align: center
+}
 .amap-logo {  right: 0 !important;  left: auto !important;  display: none;  }
 .amap-copyright {  right: 70px !important;  left: auto !important;  }
